@@ -1,0 +1,41 @@
+commit 7c26bf349be0ed13c1aa258ce0a7de0d75ad6373
+Author: Claire Arthurs <claire_arthurs@berkeley.edu>
+Date:   Thu Jun 28 10:14:10 2018 -0700
+
+    Added cilantro to recipe
+
+commit 642dd7d2ad1451a76d5d8d2adcb5eefa8aa53af6
+Author: Claire Arthurs <claire_arthurs@berkeley.edu>
+Date:   Thu Jun 28 10:11:31 2018 -0700
+
+    Started recipe steps
+
+commit 9bf5b20de9dc0a2dfb07fc71511f65a73965a2b4
+Author: Claire Arthurs <claire_arthurs@berkeley.edu>
+Date:   Thu Jun 28 10:06:03 2018 -0700
+
+    Added directions
+
+commit 56297eca80a19f123c2d0c71e3b51867b3d3ea13
+Author: Claire Arthurs <claire_arthurs@berkeley.edu>
+Date:   Thu Jun 28 10:03:47 2018 -0700
+
+    Get rid of example file
+
+commit 559d7e874f475d706f7bf7ee0b7b9f3c72d0ac57
+Author: Claire Arthurs <claire_arthurs@berkeley.edu>
+Date:   Thu Jun 28 10:01:19 2018 -0700
+
+    tester file
+
+commit 34acd2a0ad4e2883502fa24d2b48d60fd86d2c71
+Author: Claire Arthurs <claire_arthurs@berkeley.edu>
+Date:   Thu Jun 28 09:56:55 2018 -0700
+
+    add file
+
+commit 8e3a4205fd7618c832b9e81a9d111068112ff35c
+Author: Claire Arthurs <claire_arthurs@berkeley.edu>
+Date:   Thu Jun 28 09:49:26 2018 -0700
+
+    Started ingredients list
